@@ -1,3 +1,3 @@
 # Restaurant
 
-# This project will be soon under development!!
+# this project is under development from scatch
