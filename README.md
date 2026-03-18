@@ -1,3 +1,3 @@
 # Restaurant
 
-# this project is under development from scatch
+# this project is under development from scratch
