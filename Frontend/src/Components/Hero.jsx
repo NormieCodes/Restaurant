@@ -1,5 +1,5 @@
 import dosa from '../assets/dosa.png'
-import dosa2 from '../assets/dosa2.jpeg'
+import dosa2 from '../assets/hero-bg.jpeg'
 function Hero() {
   return (
     <>
