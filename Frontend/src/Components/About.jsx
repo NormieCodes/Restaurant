@@ -2,7 +2,7 @@
 function About () {
   return (
   <>
-    <section className="min-h-screen">
+    <section className="min-h-[480px]">
       <h3 className="text-3xl text-center pt-6 pb-2 font-bold">
         Why Choose Us?
       </h3>
