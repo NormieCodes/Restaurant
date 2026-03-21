@@ -3,7 +3,7 @@ import dosa2 from '../assets/hero-bg.jpeg'
 function Hero() {
   return (
     <>
-      <section className='h-screen w-full relative overflow-hidden'>
+      <section className='h-screen w-full relative overflow-hidden' id="home">
         {/* background */}
         <img 
           className='absolute inset-0 w-full h-full object-cover'
