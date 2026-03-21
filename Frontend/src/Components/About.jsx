@@ -10,7 +10,7 @@ function About () {
       <div className="w-full h-[4px] bg-gradient-to-r from-transparent via-green-600 to-transparent"></div>
       
       {/* grid container */}
-      <div className="grid grid-cols-3 gap-4 max-w-6xl mx-auto px-6 p-4 my-2">
+      <div className="grid grid-cols-3 gap-4 max-w-6xl mx-auto px-6 py-4 my-2">
 
         {/*cards*/}
         <div className="aspect-square shadow-2xl border border-gray-400 rounded-xl flex flex-col justify-center items-center ">
