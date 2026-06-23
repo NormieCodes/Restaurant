@@ -1,5 +1,5 @@
 import { Routes, Route } from "react-router-dom";
-import LandingPage from "./pages/LandingPage";
+import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
 import Menu from "./pages/Menu";
 import About from "./pages/About";
@@ -7,7 +7,7 @@ import Contact from "./pages/Contact";
 export default function App () {
   return ( 
     <>
-      <LandingPage />
+    <Navbar />
 
     <Routes>
       <Route path="/" element={<Home />} />

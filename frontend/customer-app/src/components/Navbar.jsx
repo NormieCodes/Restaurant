@@ -19,13 +19,14 @@ export default function Navbar() {
   return (
     <>
       {/* Navbar component */}
-      <nav className="flex h-24 items-center justify-between px-4">
+      <nav className="flex h-24 items-center justify-between px-4 bg-amber-100">
         {/* Left Side: Logo Container */}
         <div className="flex items-center h-full">
           <img
             className="h-full w-auto object-contain"
             src={logo}
             alt="Simply South logo"
+            draggable="false"
           />
           <h3 className="font-bold font-mono text-2xl sarina-regular">Simply <span className="text-green-700">South</span></h3>
 
